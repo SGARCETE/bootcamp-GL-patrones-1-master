@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational - AbstractFactory/Creational - AbstractFactory.iml" filepath="$PROJECT_DIR$/Creational - AbstractFactory/Creational - AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" filepath="$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" filepath="$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural - Adapter/Structural - Adapter.iml" filepath="$PROJECT_DIR$/Structural - Adapter/Structural - Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural - Composite/Structural - Composite.iml" filepath="$PROJECT_DIR$/Structural - Composite/Structural - Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural - Facade/Structural - Facade.iml" filepath="$PROJECT_DIR$/Structural - Facade/Structural - Facade.iml" />
+    </modules>
+  </component>
+</project>
